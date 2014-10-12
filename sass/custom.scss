@@ -1,3 +1,21 @@
-$font-color: #333;
 $lg-blockquote-margin-left: 24px;
 $lg-list-margin-left: 24px;
+$a-color: #ce6f29;
+$a-color-hover: #fbb040;
+
+.colophon {
+	color: #58595b;
+	a {
+		color: #ce6f29;
+	}
+}
+
+.header-content {
+	text-shadow: 2px 3px 15px rgba(0,0,0, 1);
+}
+
+
+header.site-header.cover {
+	background-position: center top !important;
+	height: 100% !important;
+}
